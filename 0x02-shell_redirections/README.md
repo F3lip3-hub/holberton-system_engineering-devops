@@ -1,6 +1,6 @@
 
 
-0-hello world
+0-hello world \n
 Prints the standard out
 
 1. Confused smiley 
@@ -18,3 +18,4 @@ Print the last 10 lines of a file
 5. Id prefer the first ones actually
 Print the first 10 lines of a file
 
+ 
