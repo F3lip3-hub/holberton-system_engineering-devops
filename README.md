@@ -1,0 +1,1 @@
+This repo is to practice bash and more commands
