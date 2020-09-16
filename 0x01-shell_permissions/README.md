@@ -1,3 +1,3 @@
 
-0- We change the current User id to be named betty
+0- We change the current User id to be named betty\n
 1-  
