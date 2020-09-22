@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 pwd
-=======
-#!bin/bash
-# first script yo
-echo /Users/holbertonschool-zero_days/0x00-shell_basics
->>>>>>> 9a0f7c25766ff6d1e40d62bc1689e2b2ad4be6ad
