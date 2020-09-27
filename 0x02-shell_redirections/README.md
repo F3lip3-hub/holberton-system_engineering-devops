@@ -1,7 +1,7 @@
+## TASK #
 
-
-0-hello world \n
-Prints the standard out
+0. hello world
+>Prints the standard out
 
 1. Confused smiley 
 >Prints a smiley with special characters
