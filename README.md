@@ -1,6 +1,8 @@
 
 # #$
 
+![](pictures/410-4106156_motoko-kusanagi-ghost-in-the-shell-major-outfit.png)
+
 
 ## What is "the Shell?"
 
